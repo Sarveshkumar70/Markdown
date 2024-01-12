@@ -51,9 +51,9 @@ extension-->
 :joy:
 
 <!-- subscript -->
-h~2~o
+<!-- h~2~o -->
 <!-- supercript  or you can use tags also-->
-6^th^
+<!-- 6^th^ -->
 
 <!-- for making table  -->
 | S.No. | Name   |
